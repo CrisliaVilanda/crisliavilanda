@@ -65,12 +65,3 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/crisliavilanda/crisliavilanda/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=crisliavilanda" />
-  <img src="https://raw.githubusercontent.com/crisliavilanda/crisliavilanda/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
