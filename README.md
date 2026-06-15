@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Development & analysis**  <br>FullStack · Python · Systems Analysis · Internal user support<br><br>Design & prototyping**  <br>UI design · Figma · Prototyping · WordPress</p>
+<p align="left">Development & analysis**  <br>FullStack · Python · Systems Analysis · Internal user support<br><br>Design & prototyping  <br>UI design · Figma · Prototyping · WordPress</p>
 
 ###
 
